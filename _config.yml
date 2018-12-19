@@ -4,16 +4,15 @@
 title: Stephen Abraham
 description: Stephen's blog,use Jekyll and github pages.
 keywords: Stephen,woudie,blog,Jekyll,github,gh-pages
-baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://woudie.github.io/psite  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /psite/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  name: Stephen Abraham  # Be used at blog posts' author.
+  first_name: Stephen  # Be used at index page about me section.
+  last_name: Abraham  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: woudie  # Leave blank if you don't have now
   linkedin_id: saw # Leave blank if you don't have now
