@@ -3,7 +3,7 @@
 
 - name:
     detail: University of Guelph
-    i18n: NEED
+    i18n: UoG
   desc:
     detail: I worked at Company A ...
     i18n: company_a_desc
@@ -42,3 +42,17 @@
     detail: Website Developer
     i18n: company_b_job
   icon: fa-briefcase
+
+  - name:
+    detail: Humberview Secondary School
+    i18n: HSS
+  desc:
+    detail: I worked at Company A ...
+    i18n: company_a_desc
+  date:
+    detail: September 2012 - June 2016
+    i18n: company_a_date
+  job:
+    detail: Ontario Scholar with SHSM
+    i18n: company_a_job
+  icon: fa-university
