@@ -11,8 +11,8 @@
     i18n: company_a_date
   job:
     detail: Intern
-    i18n: intern
-  icon: fa-briefcase
+    i18n: company_a_job
+  icon: fa-plus-square
 
 - name:
     detail: Company B
