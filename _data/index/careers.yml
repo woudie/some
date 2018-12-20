@@ -12,18 +12,18 @@
   job:
     detail: Intern
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-briefcase
 
 - name:
-    detail: Company B
+    detail: Humberview Secondary School
     i18n: company_b
   desc:
     detail: I worked at Company B ...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: May 2015 - May 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Website Developer
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-briefcase
