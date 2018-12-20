@@ -3,4 +3,4 @@
 label: Ability
 id : cs
 aspects: C,Java, Python, MATLAB/Octave, G-Code, Solidworks, EagleCAD, Mastercam/BobCAD, openSCAD/Cura, subtractive manufacturing, additive manufacturing
-percentage: 90, 80, 75, 65, 95, 80, 70, 85, 85, 90, 90
+percentage: 80, 70, 60, 35, 90, 60, 40, 70, 70, 80, 80
