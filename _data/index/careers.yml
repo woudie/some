@@ -29,20 +29,6 @@
     i18n: company_a_job
   icon: fa-briefcase
 
-- name:
-    detail: Humberview Secondary School
-    i18n: company_b
-  desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
-  date:
-    detail: May 2015 - May 2016
-    i18n: company_b_date
-  job:
-    detail: Website Developer
-    i18n: company_b_job
-  icon: fa-briefcase
-
   - name:
     detail: Humberview Secondary School
     i18n: HSS
