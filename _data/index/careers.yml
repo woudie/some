@@ -1,29 +1,44 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: University of Guelph
+    i18n: UoG
   desc:
     detail: I worked at Company A ...
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: September 2017 - Present
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Bacholers of Engineering, Engineering Systems & Computing (Coop)
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-university
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Northeast Engineering & Development Ltd.
+    i18n: NEED
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: I worked at Company A ...
+    i18n: company_a_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: July 2015 - Present
+    i18n: company_a_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+    detail: Intern
+    i18n: company_a_job
+  icon: fa-briefcase
+
+  - name:
+    detail: Humberview Secondary School
+    i18n: HSS
+  desc:
+    detail: I worked at Company A ...
+    i18n: company_a_desc
+  date:
+    detail: September 2012 - June 2016
+    i18n: company_a_date
+  job:
+    detail: Ontario Scholar with SHSM
+    i18n: company_a_job
+  icon: fa-university
