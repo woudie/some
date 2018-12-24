@@ -15,7 +15,7 @@
   icon: fa-university
 
 - name:
-    detail: Northeast Engineering & Development Ltd.
+    detail: Intern
     i18n: company_b
   desc:
     detail: I worked at Company B ...
@@ -24,12 +24,12 @@
     detail: July 2015 - Present
     i18n: company_b_date
   job:
-    detail: Internship
+    detail: Northeast Engineering & Development Ltd.
     i18n: company_b_job
   icon: fa-briefcase
 
 - name:
-    detail: Humberview Secondary School
+    detail: Web Developer
     i18n: company_b
   desc:
     detail: I worked at Company B ...
@@ -38,6 +38,6 @@
     detail: May 2015 - May 2016
     i18n: company_b_date
   job:
-    detail: Web Developer
+    detail: Humberview Secondary School
     i18n: company_b_job
   icon: fa-briefcase
