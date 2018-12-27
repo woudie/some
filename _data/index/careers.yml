@@ -4,7 +4,13 @@
     detail: Bachelor of Engineering, Engineering Systems & Computing
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I began my under graduate studies back in fall of 2017. Initially, I began as a computer engineer, 
+            but upon discovering that I had a passion for things not just electronic and software, but also mechnical,
+            I promptly transferred to engineering systems and computing. Since my transfer, I taken a wide array courses
+            ranging from digital electronic design to fluid mechanics. In addition to maintaining good academic standings,
+            I am heavily involved with the universities robotics team and interdisplinary space project, where I try to apply
+            my classroom taught knowledge to real life applications such as robots and rockets.
+
     i18n: company_a_desc
   date:
     detail: September 2017 - Present
