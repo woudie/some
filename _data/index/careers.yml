@@ -24,7 +24,11 @@
     detail: Intern
     i18n: company_b
   desc:
-    detail: I worked at Company B ...nmnm
+    detail: I began working as a highschool co-op student back in july 2015 as part of my highschools co-op program. After I completed my co-op term, I was offered
+            a more long term part time position at the firm due to my performance during the co-op term. During my time off from school, I work full-time at the firm
+            completing a variety of duties ranging from designing and constructing custom aeronautics to manufacturing precision aerospace-grade components. During
+            the school year, I try to assist the company on software-related projects. Lately, most of my work has been related to software and electronics due to a
+            project I am heavily involved in.
     i18n: company_b_desc
   date:
     detail: July 2015 - Present
@@ -38,7 +42,11 @@
     detail: Web Developer
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: A fellow school mate and I were hand selected to become the developers for the new website for the new SHSM program that was created at my school known as
+            Enviromental SHSM. I was responsible for the intial design of the website and the development of the front end of the website, while my school mate handled
+            all backend related development. In addition to the development of the front end, I helped my school mate resolve issues with the front end, and regularly
+            maintained the website during the time that I was involved with the project. Additionally, I developed some supporting documents so that future students knew
+            how to maintain the website for years to come.
     i18n: company_b_desc
   date:
     detail: May 2015 - May 2016
