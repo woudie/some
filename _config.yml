@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Undergraduate student pationate about everything tech  # Describe yourself.
+  desc: Undergraduate student with a major interest in the nexus between mechanical, computer, and software engineering. A fan of everything technological past, present and future. Determined to follow my interests and passions whereever they may take me.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
