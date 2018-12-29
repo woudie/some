@@ -29,3 +29,8 @@
   name: 
   tpl: links.html
   css: contact
+
+- id: blog
+  i18n: nav.blog
+  name: blog
+  tpl:
