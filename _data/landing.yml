@@ -18,19 +18,9 @@
   tpl: skills.html
   css: team
 
-- id: projects
-  i18n: nav.projects
-  name: Projects
-  tpl: projects.html
-  css: project
 
 - id: links
-  i18n: nav.link
+  i18n: 
   name: 
-  tpl: links.html
+  tpl: custom_footer.html
   css: contact
-
-- id: blog
-  i18n: nav.blog
-  name: blog
-  tpl:
